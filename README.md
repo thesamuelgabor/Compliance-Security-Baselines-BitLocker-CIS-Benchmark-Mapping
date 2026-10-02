@@ -55,7 +55,7 @@ Built a supplementary Settings Catalog profile for controls not covered by the b
 
 Rather than hand-picking a handful of settings, this project applies the **CIS Microsoft Windows 11 Benchmark - Level 2** control set in full - the stricter profile intended for higher-security environments, building on top of (and in some cases overriding) the Level 1 baseline. Level 2 policies can be obtained two ways, both sourced from CIS directly:
 
-- **CIS-provided build** - downloaded as a GPO backup / CIS Build Kit from [CIS WorkBench](https://workbench.cisecurity.org/) (free account) or, with a CIS SecureSuite membership, as a ready-made Intune configuration profile.
+- **CIS-provided build** - downloaded as a CIS Build Kit from [CIS WorkBench](https://workbench.cisecurity.org/) as a ready-made Intune configuration profile.
 - **Custom-built from the free PDF** - the CIS Microsoft Windows 11 Benchmark PDF is free to download from CIS and lists every Level 2 recommendation with its exact registry path/value, which can be hand-built into Intune Settings Catalog profiles for full control over what's imported.
 
 For this project, the Level 2 policy set was downloaded from CIS WorkBench, then bulk-imported and assigned to the pilot device group using **InToolz** rather than uploading each profile by hand. The same result is achievable through the Intune admin center GUI - importing and assigning each converted profile one at a time - InToolz was used here purely to save time on a policy set this large.
