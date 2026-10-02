@@ -68,6 +68,6 @@ For this project, the Level 2 policy set was downloaded from CIS WorkBench, then
 
 Confirmed a device is evaluated against every policy above and reported as Compliant
 
-<img width="800" height="450" alt="image" src="docs/img/05-compliance-validation.png" />
+<img width="622" height="203" alt="image" src="https://github.com/user-attachments/assets/79818ead-1047-4aec-9500-fa88ebf38e75" />
 
 *Ref 5: Compliance validation*
