@@ -23,7 +23,7 @@ This project builds the full Windows 11 security posture on top of the devices f
 
 Applied the built-in Security Baseline for Windows 11, then reviewed and adjusted the handful of settings that conflicted with the org's own requirements before assigning it.
 
-<img width="800" height="450" alt="image" src="docs/img/01-security-baseline.png" />
+<img width="1139" height="348" alt="image" src="https://github.com/user-attachments/assets/e140d152-a3b5-44f7-98bb-28f5f2379ca4" />
 
 *Ref 1: Security baseline*
 
@@ -37,7 +37,7 @@ Applied the built-in Security Baseline for Windows 11, then reviewed and adjuste
 | Recovery key escrow | Microsoft Entra ID |
 | Deny write access to unprotected removable drives | Enabled |
 
-<img width="800" height="450" alt="image" src="docs/img/02-bitlocker-policy.png" />
+<img width="1388" height="424" alt="image" src="https://github.com/user-attachments/assets/9e6ba533-4124-413c-8130-e2bd7f55d46c" />
 
 *Ref 2: BitLocker policy*
 
@@ -45,7 +45,7 @@ Applied the built-in Security Baseline for Windows 11, then reviewed and adjuste
 
 Built a supplementary Settings Catalog profile for controls not covered by the baseline (local admin removal, Defender configuration, unknown-source install blocking).
 
-<img width="800" height="450" alt="image" src="docs/img/03-settings-catalog.png" />
+<img width="963" height="408" alt="image" src="https://github.com/user-attachments/assets/1acc44a9-6347-4784-91a4-06eeef44143f" />
 
 *Ref 3: Settings Catalog hardening*
 
