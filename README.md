@@ -35,7 +35,7 @@ Created a compliance policy under **Devices → Compliance → Create policy**, 
 | Device Health → BitLocker | Required |
 | Device Health → Secure Boot | Required |
 
-<img width="800" height="450" alt="Win-Compliance policy properties showing BitLocker and Secure Boot required" src="docs/img/01-compliance-policy.png" />
+<img width="869" height="593" alt="Snímka obrazovky 2026-10-02 200320" src="https://github.com/user-attachments/assets/0726045a-9f03-4344-97d7-928c37126180" />
 
 *Ref 1: Compliance policy*
 
