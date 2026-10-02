@@ -9,7 +9,7 @@ This project builds the full Windows 11 security posture on top of the devices f
 - Deploying and customizing a Microsoft Security Baseline profile
 - Difference between Security Baselines and the Settings Catalog
 - BitLocker policy design: encryption method, TPM startup, silent enablement, key escrow
-- Sourcing and importing a CIS Benchmark Level 2 policy set — either as a ready-made CIS build or hand-built from CIS's free documentation
+- Sourcing and importing a CIS Benchmark Level 2 policy set - either as a ready-made CIS build or hand-built from CIS's free documentation
 - Bulk-importing and assigning a large policy set with InToolz, vs. importing and assigning each profile manually through the GUI
 
 ### Tools Used
